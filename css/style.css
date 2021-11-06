@@ -1,0 +1,20 @@
+body{
+	background: #FFCCD2
+}
+.g-box{
+	height: 100px;
+    background: cyan;
+    margin-bottom: 10px;
+}
+
+.t-box{
+  height: 100px;
+  background: #C85C5C;
+  margin-bottom: 10px;
+}
+.box{
+  height: 100px;
+  background: #AA14F0;
+  margin-bottom: 10px;
+}
+
